@@ -58,4 +58,4 @@ def draw_heat_map():
     return fig
 
 
-https://replit.com/@adityanaranje/boilerplate-medical-data-visualizer?v=1
+# https://replit.com/@adityanaranje/boilerplate-medical-data-visualizer?v=1
